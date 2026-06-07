@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
+| [0849-maximize-distance-to-closest-person](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0849-maximize-distance-to-closest-person) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Greedy
 |  |
