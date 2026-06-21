@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0541-reverse-string-ii) |
