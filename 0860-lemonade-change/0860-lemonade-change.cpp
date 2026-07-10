@@ -7,7 +7,8 @@ public:
             if(bills[i] == 5){
                 count_5++;
             }
-            else if(bills[i] == 10 && count_5 > 0){
+            else if(bills[i] == 10){
+                if(count_5 == 0)return false;
                 count_10++;
                 count_5--;
             }
@@ -23,9 +24,6 @@ public:
                     return false;
                 }
 
-            }
-            else{
-                return false;
             }
         }
         return true;
