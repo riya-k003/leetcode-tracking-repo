@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0678-valid-parenthesis-string) |
