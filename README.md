@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
