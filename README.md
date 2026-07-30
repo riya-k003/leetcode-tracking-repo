@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
