@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0055-jump-game) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0678-valid-parenthesis-string) |
@@ -213,4 +215,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
