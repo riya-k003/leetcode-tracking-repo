@@ -25,7 +25,6 @@ public:
             while(n--){
                 TreeNode* temp = q.front();
                 q.pop();
-                if(temp){
                 ans.push_back(temp->val);
                 
                 if(temp->left){
@@ -33,7 +32,6 @@ public:
                 }
                 if(temp->right){
                     q.push(temp->right);
-                }
                 }
             }
             if(count%2 != 0){
