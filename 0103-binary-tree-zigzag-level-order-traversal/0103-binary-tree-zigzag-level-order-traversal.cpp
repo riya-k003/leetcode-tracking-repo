@@ -18,7 +18,7 @@ public:
         }
         queue<TreeNode*>q;
         q.push(root);
-        int count =0;
+       bool lefttoright = true;
         while(!q.empty()){
             vector<int>ans;
             int n = q.size();
@@ -34,11 +34,15 @@ public:
                     q.push(temp->right);
                 }
             }
-            if(count%2 != 0){
+            if(!lefttoright){
                 reverse(ans.begin() , ans.end());
+                lefttoright = true;
+            }
+            else{
+                lefttoright=false;
             }
             result.push_back(ans);
-            count++;
+
         }
         return result;
     }
