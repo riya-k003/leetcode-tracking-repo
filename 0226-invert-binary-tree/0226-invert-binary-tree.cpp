@@ -20,9 +20,8 @@ public:
             while(n--){
                 TreeNode* temp = q.front();
                 q.pop();
-                if(temp->left || temp->right){
                 swap(temp->left , temp->right);
-            }
+            
                 if(temp->left){
                     q.push(temp->left);
                 }
