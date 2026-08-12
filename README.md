@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Dynamic Programming
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
