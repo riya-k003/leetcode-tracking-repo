@@ -11,15 +11,14 @@
  */
 class Solution {
 public:
+unordered_map<int , int>mp;
     TreeNode* dfs(vector<int>& post , vector<int>& in , int postlast , int inStart , int inEnd){
         if(inStart > inEnd) return NULL;
     
         TreeNode* root = new TreeNode(post[postlast]);
 
-        int rootIndx = inStart;
-        while(in[rootIndx] != root->val){
-            rootIndx++;
-        }
+        int rootIndx = mp[root->val];
+        
 
         int rightsize = inEnd-rootIndx;
 
@@ -29,6 +28,9 @@ public:
         return root;
             }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        for(int i =0 ; i<inorder.size() ; i++){
+            mp[inorder[i]] = i;
+        }
         return dfs(postorder , inorder , postorder.size()-1 , 0 , inorder.size()-1);
         
     }
