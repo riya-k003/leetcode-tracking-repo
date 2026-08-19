@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0142-linked-list-cycle-ii) |
