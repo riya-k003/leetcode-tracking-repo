@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0678-valid-parenthesis-string) |
