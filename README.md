@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
