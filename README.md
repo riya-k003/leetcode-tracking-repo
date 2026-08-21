@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0860-lemonade-change) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
