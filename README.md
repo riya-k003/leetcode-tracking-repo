@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0142-linked-list-cycle-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
