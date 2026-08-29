@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Greedy
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Tree
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
