@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
