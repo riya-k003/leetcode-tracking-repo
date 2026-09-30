@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
