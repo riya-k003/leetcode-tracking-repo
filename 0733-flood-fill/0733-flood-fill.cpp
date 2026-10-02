@@ -1,26 +1,28 @@
 class Solution {
 public:
-void dfs(int i , int j , int color ,  int startpixel , vector<vector<int>>& image){
-    int m = image.size();
-    int n = image[0].size();
-    if(image[i][j] != startpixel){
-        return;
-    }
-    if(image[i][j] == startpixel ){
-        image[i][j] = color;
-    }
-    if(i+1 < m)dfs(i+1 , j , color , startpixel , image);
-    if(i-1 >= 0)dfs(i-1 , j ,  color , startpixel , image);
-    if(j+1 < n)dfs(i , j+1 , color , startpixel , image);
-    if(j-1 >= 0)dfs(i , j-1 ,color , startpixel , image);
-}
+vector<pair<int , int>>ordi {{-1,0} , {1,0} , {0,-1} , {0,1}};
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int m = image.size();
         int n = image[0].size();
-        int startpixel = image[sr][sc];
+        int startpix = image[sr][sc];
         if(image[sr][sc] == color)return image;
+        queue<pair<int , int>>q;
+        image[sr][sc] = color;
+        q.push({sr , sc});
+        while(!q.empty()){
+            pair<int , int>cord = q.front();
+            q.pop();
+            for(auto &k : ordi){
+                int new_i = cord.first+k.first;
+                int new_j = cord.second+k.second;
 
-      dfs(sr , sc , color , startpixel ,  image);
+                if( new_i >= 0 && new_i < m && new_j >= 0 && new_j < n &&image[new_i][new_j] == startpix){
+                    image[new_i][new_j] = color;
+                    q.push({new_i , new_j});
+                }
+
+            }
+        }
 
         return image;
     }
