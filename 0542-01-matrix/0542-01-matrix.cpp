@@ -17,7 +17,7 @@ vector<vector<int>>dist(m , vector<int>(n,0));
                 int new_i = k+idx.first;
                 int new_j = l+idx.second;
 
-                if(new_i < m && new_i >= 0 && new_j < n && new_j >= 0 && mat[new_i][new_j] == 1 && mat[new_i][new_j] != -1){
+                if(new_i < m && new_i >= 0 && new_j < n && new_j >= 0 && mat[new_i][new_j] == 1){
                      q.push({{new_i , new_j} , count});
                         mat[new_i][new_j] = -1;
                 }
@@ -37,7 +37,7 @@ vector<vector<int>>dist(m , vector<int>(n,0));
             int new_i = i+idx.first;
             int new_j = j+idx.second;
             int count = cnt;
-            if(new_i < m && new_i >=0 && new_j <n && new_j >= 0 && mat[new_i][new_j] == 1 && mat[new_i][new_j] != -1){
+            if(new_i < m && new_i >=0 && new_j <n && new_j >= 0 && mat[new_i][new_j] == 1){
                 q.push({{new_i , new_j} , ++count});
                 mat[new_i][new_j] = -1;
             }
