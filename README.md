@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0860-lemonade-change) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0222-count-complete-tree-nodes) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
@@ -427,15 +431,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
