@@ -2,47 +2,34 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
-        int m = prerequisites.size();
-        int cnt =0;
-        map<int , int>count;
-        for(int i=0 ; i<n ; i++){
-            count[i] = 0;
-        }
-    
-        map<int , vector<int>>mp;
-        for(int i=0 ; i<m ; i++){
-                mp[prerequisites[i][0]].push_back(prerequisites[i][1]);
+        vector<vector<int>>adj(n);
+        vector<int>count(n , 0);
+        for(const auto& edj : prerequisites){
+            int i = edj[0];
+            int j = edj[1];
+            adj[j].push_back(i);
+            count[i]++;
         }
         queue<int>q;
-        for(auto& vec: mp){
-            count[vec.first] = vec.second.size();
-        }
-        for(auto& s: count){
-             if(s.second == 0){
-                q.push(s.first);
-               cnt++;
+        for(int i =0 ; i<n ; i++){
+            if(count[i] == 0){
+                q.push(i);
             }
         }
-        
+        int cntcourse =0;
         while(!q.empty()){
             int course = q.front();
             q.pop();
-            if(cnt == numCourses)return true;
-            for(auto& i : mp){
-                for(int j =0 ; j<i.second.size() ; j++){
-                    if(i.second[j] == course){
-                    count[i.first]--;
-                    if(count[i.first] == 0){
-                        q.push(i.first);
-                        cnt++;
-                    }
+            for(auto& ass : adj[course]){
+                count[ass]--;
+                if(count[ass] == 0){
+                    q.push(ass);
                 }
-                }
-                
             }
-        }
+            cntcourse++;
 
-return false;
+        }
+        return (cntcourse == n);
         
     }
 };
