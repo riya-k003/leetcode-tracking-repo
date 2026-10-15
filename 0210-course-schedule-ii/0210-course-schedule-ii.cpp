@@ -33,9 +33,7 @@ public:
             ans.push_back(course);
         }
        if(cnt < n){
-        while(!ans.empty()){
-            ans.pop_back();
-        }
+       return {};
        }
         return ans;
     }
