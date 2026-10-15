@@ -32,9 +32,7 @@ public:
             cnt++;
             ans.push_back(course);
         }
-       if(cnt < n){
-       return {};
-       }
+       if(cnt < n) return {};
         return ans;
     }
 };
