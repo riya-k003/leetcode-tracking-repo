@@ -4,21 +4,18 @@ public:
         int n = height.size();
         int l = 0;
         int r = n-1;
-        int maxi = 0;
+        int maxi = INT_MIN;
+        int mini = INT_MAX;
         while(l<r){
+            mini = min(height[l], height[r]);
+             maxi = max(maxi ,mini*(r-l));
             if(height[l] < height[r]){
-                int water = height[l]*(r-l);
-                maxi = max(maxi ,water);
                 l++;
             }
             else if(height[l] > height[r]){
-                int water = height[r]*(r-l);
-                maxi = max(maxi , water);
                 r--;
             }
             else{
-                int water = height[r]*(r-l);
-                maxi = max(maxi , water);
                 l++;
                 r--;
             }
