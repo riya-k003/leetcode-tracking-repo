@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0542-01-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0200-number-of-islands) |
