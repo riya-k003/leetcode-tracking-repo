@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
