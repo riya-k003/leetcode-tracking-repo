@@ -31,7 +31,7 @@ public:
         int s = n+m;
         if(s%2 == 0){
              int mid  = s/2;
-            median = (double(ans[mid-1]) + double(ans[mid]))/2;
+            median = double(ans[mid-1] + ans[mid])/2;
              
         }
         else{
