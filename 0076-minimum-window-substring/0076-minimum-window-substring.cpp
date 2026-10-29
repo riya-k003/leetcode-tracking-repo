@@ -1,49 +1,47 @@
 class Solution {
 public:
-bool check(unordered_map<char , int>&mps , unordered_map<char , int>& mpt){
-    if(mpt.size() > mps.size())return false;
-    for(auto & ch : mpt){
-        if(mps.find(ch.first) == mps.end())return false;
+
+bool check( unordered_map<int , int>&freqS , unordered_map<int , int>&freqT){
+    if(freqS.size() < freqT.size())return false;
+    for(auto& ch : freqT){
+        if(freqS.find(ch.first) == freqS.end())return false;
         else{
-            if(ch.second > mps[ch.first])return false;
+            if(freqS[ch.first] < ch.second)return false;
         }
     }
     return true;
 }
     string minWindow(string s, string t) {
-        unordered_map<char , int>mpt;
-        for(auto& ch: t){
-            mpt[ch]++;
+        int n = s.size();
+        int m = t.size();
+        unordered_map<int , int>freqS;
+        unordered_map<int, int>freqT;
+        for(auto& ch : t){
+            freqT[ch]++;
         }
-        unordered_map<char , int>mps;
-        int l =0;
-        int r =0;
-        int start = 0;
-        int end =0;
+        int l =0 , r =0;
+        int start =0 , end =0;
         int mini = INT_MAX;
-        while(r<s.size()){
-            mps[s[r]]++;
-            if(check(mps , mpt)){
-                
-                while(check(mps , mpt)){
-                    int minimum = mini;
-                    mini = min(r-l+1 , mini);
-                    if(minimum != mini){
+        while(r < n){
+            freqS[s[r]]++;
+            if(check(freqS,freqT)){
+                while(check(freqS , freqT)){
+                    int prev = mini;
+                    mini = min(mini , r-l+1);
+                    if(prev != mini){
                         start =l;
                         end = r;
                     }
-                    
-
-                    mps[s[l]]--;
-                    if(mps[s[l]] == 0){
-                        mps.erase(s[l]);
+                    freqS[s[l]]--;
+                    if(freqS[s[l]] == 0){
+                        freqS.erase(s[l]);
                     }
                     l++;
                 }
             }
-            r++;
+                r++;
         }
         if(mini == INT_MAX)return "";
-        return s.substr(start , end-start+1);
+        return s.substr(start , mini);
     }
 };
