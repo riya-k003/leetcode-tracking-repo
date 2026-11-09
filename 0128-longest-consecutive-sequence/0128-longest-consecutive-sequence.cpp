@@ -7,14 +7,12 @@ public:
 
         for(auto& el : st){
             int count = 1;
-        for(int i=1 ; i<n ; i++){
-            if(st.find(el+i) != st.end()){
+            if(st.find(el-1) != st.end())continue;
+            int curr = el;
+            while(st.count(curr+1)){
                 count++;
+                curr++;
             }
-            else {
-                break;
-            }
-        }
         maxi = max(maxi , count);
         }
         return maxi;
