@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0849-maximize-distance-to-closest-person) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
