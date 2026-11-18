@@ -8,12 +8,11 @@ public:
        int i =-1;
         
         while(r<n){
-            if(s<=r && nums[r] == 0 && i != -1){
-                maxi = max(r-s-1 , maxi);
+            if(nums[r] == 0 && i != -1){
                 s = i+1;
                 i = r;
             }
-            else if(s<=r && nums[r] == 0 && i == -1){
+            else if(nums[r] == 0 && i == -1){
                 i = r;
             }
             maxi = max(r-s , maxi);
