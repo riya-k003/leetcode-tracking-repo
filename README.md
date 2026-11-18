@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0678-valid-parenthesis-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1020-number-of-enclaves) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
