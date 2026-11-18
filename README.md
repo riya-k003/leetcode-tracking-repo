@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0455-assign-cookies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
