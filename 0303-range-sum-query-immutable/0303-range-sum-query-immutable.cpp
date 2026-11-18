@@ -5,7 +5,6 @@ public:
         int n = nums.size();
         prefix_sum.resize(n+1 , 0);
         int sum =0;
-        prefix_sum[0] = 0;
         for(int i =0 ; i<n ; i++){
             sum += nums[i];
             prefix_sum[i+1] = sum;
