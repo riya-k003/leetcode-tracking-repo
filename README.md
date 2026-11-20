@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0621-task-scheduler) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
