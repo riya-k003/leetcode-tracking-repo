@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [2365-task-scheduler-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/2365-task-scheduler-ii) |
 ## Dynamic Programming
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1020-number-of-enclaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
