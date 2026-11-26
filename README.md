@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
+| [0523-continuous-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0567-permutation-in-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0724-find-pivot-index) |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/riya-k003/leetcode-tracking-repo/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
